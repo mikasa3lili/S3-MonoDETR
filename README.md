@@ -1,6 +1,6 @@
 # S3-MonoDETR
 
-Official implementation of the paper 'S^3-MonoDETR: Supervised Shape$\&$Scale-constrained Deformable Transformer for Monocular 3D Object Detection'.
+Official implementation of the paper 'S^3-MonoDETR: Supervised Shape&Scale-constrained Deformable Transformer for Monocular 3D Object Detection'.
 
 😄We will release code and checkpoints in the future.
 
