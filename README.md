@@ -4,7 +4,7 @@ Official implementation of the paper 'S^3-MonoDETR: Supervised Shape&Scale-const
 
 😄We will release code and checkpoints in the future.
 
-![image](ttps://github.com/mikasa3lili/S3-MonoDETR/blob/main/intro-m%20(1).png)
+![image](https://github.com/mikasa3lili/S3-MonoDETR/blob/main/intro-m1.png)
 
 Abstract
 
