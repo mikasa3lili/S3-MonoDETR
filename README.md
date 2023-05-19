@@ -1,4 +1,4 @@
-# S3-MonoDETR
+# S<sup>3</sup>-MonoDETR
 
 Official implementation of the paper 'S^3-MonoDETR: Supervised Shape&Scale-constrained Deformable Transformer for Monocular 3D Object Detection'.
 
